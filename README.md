@@ -16,3 +16,7 @@ A web application for customizing a Tesla Model Y, allowing users to select exte
 - **TailwindCSS**: CDN-based utility-first CSS framework for styling.
 - **JavaScript**: Handles interactivity and button selection logic.
 - **Font Awesome**: Icon library for adding icons.
+
+## Preview
+
+![Tesla Configurator Preview](./tesla-preview.mov)
