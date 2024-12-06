@@ -19,4 +19,4 @@ A web application for customizing a Tesla Model Y, allowing users to select exte
 
 ## Preview
 
-![Tesla Configurator Preview](./tesla-preview.mov)
+<video src='tesla-preview.mov' width=180/>
