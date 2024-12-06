@@ -19,4 +19,5 @@ A web application for customizing a Tesla Model Y, allowing users to select exte
 
 ## Preview
 
-<video src='tesla-preview.mov' width=180/>
+https://github.com/user-attachments/assets/a1f8ed38-8801-4200-b372-b90f35e6b5c8
+
